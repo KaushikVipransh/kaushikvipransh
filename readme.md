@@ -15,8 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vipransh Kaushik&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
-<picture>
-  <img alt="Pacman contribution graph animation" src="https://raw.githubusercontent.com/KaushikVipransh/KaushikVipransh/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<img alt="Pacman contribution graph animation" src="https://raw.githubusercontent.com/KaushikVipransh/KaushikVipransh/pacman-output/pacman-contribution-graph-dark.svg">
 
 
