@@ -39,7 +39,7 @@ STAR_MAX_R = 5.5
 STAR_MIN_R = 1.0
 CONNECT_DIST = 48        # px — max distance to draw a constellation line
 MAX_CONNECTIONS = 3      # max lines per star to keep it readable
-LINE_OPACITY = 0.22
+LINE_OPACITY = 0.18
 
 
 def fetch_contributions():
@@ -90,17 +90,17 @@ def map_stars(days):
 
         # Colour: dim grey → amber → red based on intensity
         if count == 0:
-            color = "#2a2a3a"
-            opacity = 0.30
+            color = "#1A1D24"
+            opacity = 0.25
         elif ratio < 0.3:
-            color = "#10B981"   # emerald — low activity
+            color = "#4A5568"   # dark steel — low activity
             opacity = 0.55 + ratio
         elif ratio < 0.65:
-            color = "#F59E0B"   # amber — medium
-            opacity = 0.75
+            color = "#A0AAB4"   # silver — medium
+            opacity = 0.78
         else:
-            color = "#EF4444"   # red — high activity
-            opacity = 0.95
+            color = "#E2E8F0"   # bright chrome — high activity
+            opacity = 0.96
 
         stars.append({
             "x": round(x, 2),
@@ -154,37 +154,37 @@ def render_svg(stars, lines, total_contributions):
     # ── Defs: glows + gradients ────────────────────────────────────────────────
     defs = """
   <defs>
-    <!-- Amber glow -->
-    <filter id="glow-amber" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="2.8" result="blur"/>
+    <!-- Chrome glow (bright silver) -->
+    <filter id="glow-chrome" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.2" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <!-- Red glow -->
-    <filter id="glow-red" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3.4" result="blur"/>
+    <!-- Silver glow (mid silver) -->
+    <filter id="glow-silver" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.6" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <!-- Emerald glow -->
-    <filter id="glow-emerald" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="2.2" result="blur"/>
+    <!-- Steel glow (dark steel) -->
+    <filter id="glow-steel" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.0" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <!-- Background gradient -->
     <radialGradient id="bg" cx="50%" cy="50%" r="75%">
-      <stop offset="0%" stop-color="#0f1620"/>
-      <stop offset="100%" stop-color="#060a0e"/>
+      <stop offset="0%" stop-color="#0c0f16"/>
+      <stop offset="100%" stop-color="#060810"/>
     </radialGradient>
-    <!-- Nebula -->
+    <!-- Nebula — cool blue-gray metallic clouds -->
     <radialGradient id="nebula1" cx="30%" cy="40%" r="40%">
-      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.04"/>
+      <stop offset="0%" stop-color="#A0AAB4" stop-opacity="0.04"/>
       <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="nebula2" cx="70%" cy="60%" r="35%">
-      <stop offset="0%" stop-color="#10B981" stop-opacity="0.05"/>
+      <stop offset="0%" stop-color="#4A5568" stop-opacity="0.05"/>
       <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="nebula3" cx="55%" cy="25%" r="30%">
-      <stop offset="0%" stop-color="#EF4444" stop-opacity="0.035"/>
+      <stop offset="0%" stop-color="#E2E8F0" stop-opacity="0.03"/>
       <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
     </radialGradient>
   </defs>"""
@@ -202,7 +202,7 @@ def render_svg(stars, lines, total_contributions):
         parts.append(
             f'  <line x1="{s["x"]}" y1="{s["y"]}" '
             f'x2="{t["x"]}" y2="{t["y"]}" '
-            f'stroke="#F59E0B" stroke-opacity="{LINE_OPACITY}" stroke-width="0.6"/>'
+            f'stroke="#A0AAB4" stroke-opacity="{LINE_OPACITY}" stroke-width="0.6"/>'
         )
 
     # ── Stars ──────────────────────────────────────────────────────────────────
@@ -216,12 +216,12 @@ def render_svg(stars, lines, total_contributions):
             continue
 
         # Determine glow filter
-        if s["color"] == "#EF4444":
-            filt = 'filter="url(#glow-red)"'
-        elif s["color"] == "#F59E0B":
-            filt = 'filter="url(#glow-amber)"'
+        if s["color"] == "#E2E8F0":
+            filt = 'filter="url(#glow-chrome)"'
+        elif s["color"] == "#A0AAB4":
+            filt = 'filter="url(#glow-silver)"'
         else:
-            filt = 'filter="url(#glow-emerald)"'
+            filt = 'filter="url(#glow-steel)"'
 
         dur = anim_dur(idx)
         delay = anim_delay(idx)
@@ -241,7 +241,7 @@ def render_svg(stars, lines, total_contributions):
     # ── Label ──────────────────────────────────────────────────────────────────
     parts.append(
         f'  <text x="{W//2}" y="{H - 10}" text-anchor="middle" '
-        f'font-family="monospace" font-size="10" fill="#F59E0B" opacity="0.55">'
+        f'font-family="monospace" font-size="10" fill="#A0AAB4" opacity="0.45">'
         f'✦ {total_contributions:,} contributions this year ✦</text>'
     )
 
