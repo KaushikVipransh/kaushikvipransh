@@ -95,19 +95,6 @@ const vipransh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaushikVipransh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=10B981&text_color=ffffff&ring_color=EF4444" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikVipransh&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=ffffff" />
-
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaushikVipransh&hide_border=true&background=0D1117&stroke=EF4444&ring=F59E0B&fire=EF4444&currStreakNum=ffffff&currStreakLabel=F59E0B&sideLabels=10B981&sideNums=ffffff&dates=888888" />
-</div>
-
-<br/>
-
-<div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaushikVipransh&bg_color=0D1117&color=F59E0B&line=10B981&point=EF4444&area=true&area_color=10B981&hide_border=true&custom_title=Vipransh's%20Contribution%20Graph" />
 </div>
 
