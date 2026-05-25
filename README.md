@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vipransh%20Kaushik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20UI%20Craftsman&descAlignY=58&descAlign=50&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,4,20&height=220&section=header&text=Vipransh%20Kaushik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20UI%20Craftsman&descAlignY=58&descAlign=50&descSize=18" />
 
 </div>
 
 <div align="center">
 
 <!-- Animated typing intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%E2%9A%A1+Turning+coffee+into+production-ready+code;%F0%9F%8C%90+Full+Stack+%7C+Cloud+%7C+Open+Source;%F0%9F%8E%AF+Clean+Code+%E2%80%A2+Bold+Design+%E2%80%A2+Real+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%E2%9A%A1+Turning+coffee+into+production-ready+code;%F0%9F%8C%90+Full+Stack+%7C+MERN+%7C+Open+Source;%F0%9F%8E%AF+Clean+Code+%E2%80%A2+Bold+Design+%E2%80%A2+Real+Impact)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Status badges - animated pill row -->
-![Status](https://img.shields.io/badge/Status-Available%20for%20Work-00D26A?style=flat-square&logo=statuspage&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Cloud-A855F7?style=flat-square&logo=target&logoColor=white)
-![Coffee](https://img.shields.io/badge/Coffee-3%20cups%20%2F%20day-c0392b?style=flat-square&logo=buymeacoffee&logoColor=white)
-![Location](https://img.shields.io/badge/Location-India%20🇮🇳-06B6D4?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Available%20for%20Work-10B981?style=flat-square&logo=statuspage&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20MERN-F59E0B?style=flat-square&logo=target&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-3%20cups%20%2F%20day-EF4444?style=flat-square&logo=buymeacoffee&logoColor=white)
+![Location](https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-10B981?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -30,8 +30,8 @@
 const vipransh = {
   pronouns: "he/him",
   role: "Full Stack Developer",
-  stack: ["React", "Next.js", "Node.js"],
-  cloud: ["AWS", "Docker", "Kubernetes", "Vercel"],
+  stack: ["MongoDB", "Express.js", "React", "Node.js"],
+  languages: ["JavaScript", "TypeScript", "C++", "C", "SQL"],
   passion: "Crafting experiences users love",
   currentlyBuilding: "Something crazy cool 🔥",
   funFact: "I debug with console.log and I'm not sorry",
@@ -59,28 +59,25 @@ const vipransh = {
 ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-### 🖥️ Backend & Databases
+### 🖥️ Backend & MERN Stack
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### ☁️ DevOps & Cloud
+### 💻 Languages
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-F59E0B?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ### 🎭 Design & Tools
 
@@ -99,19 +96,19 @@ const vipransh = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaushikVipransh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=ffffff&ring_color=A855F7" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikVipransh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaushikVipransh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=10B981&text_color=ffffff&ring_color=EF4444" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikVipransh&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=ffffff" />
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaushikVipransh&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=06B6D4&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaushikVipransh&hide_border=true&background=0D1117&stroke=EF4444&ring=F59E0B&fire=EF4444&currStreakNum=ffffff&currStreakLabel=F59E0B&sideLabels=10B981&sideNums=ffffff&dates=888888" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaushikVipransh&bg_color=0D1117&color=A855F7&line=06B6D4&point=ffffff&area=true&area_color=A855F7&hide_border=true&custom_title=Vipransh's%20Contribution%20Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaushikVipransh&bg_color=0D1117&color=F59E0B&line=10B981&point=EF4444&area=true&area_color=10B981&hide_border=true&custom_title=Vipransh's%20Contribution%20Graph" />
 </div>
 
 ---
@@ -119,7 +116,7 @@ const vipransh = {
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=KaushikVipransh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=KaushikVipransh&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
@@ -134,4 +131,4 @@ const vipransh = {
 
 
 <!-- Animated footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer&animation=twinkling" />
