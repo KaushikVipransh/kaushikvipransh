@@ -1,0 +1,39 @@
+name: ✨ Contribution Constellation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Nightly at midnight UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'constellation.svg'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate constellation SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: KaushikVipransh
+        run: python scripts/generate_constellation.py
+
+      - name: Commit constellation
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: regenerate contribution constellation [skip ci]"
+          file_pattern: constellation.svg

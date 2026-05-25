@@ -108,11 +108,11 @@ const vipransh = {
 
 ---
 
-## 🌊 Open Source Contribution Snake
+## ✨ Contribution Constellation
 
 <div align="center">
 
-![snake gif](https://github.com/KaushikVipransh/KaushikVipransh/blob/output/github-contribution-grid-snake-dark.svg)
+<img width="100%" src="./constellation.svg" alt="Contribution Constellation — each star is a day, brightness is commit count" />
 
 </div>
 
