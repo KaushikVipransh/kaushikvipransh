@@ -613,6 +613,6 @@
   <circle cx="862.32" cy="236.0" r="1.0" fill="#2a2a3a" opacity="0.3"/>
   <circle cx="860.65" cy="275.08" r="1.0" fill="#2a2a3a" opacity="0.3"/>
   <circle cx="873.24" cy="25.03" r="2.01" fill="#10B981" opacity="0.77" filter="url(#glow-emerald)"><animate attributeName="opacity" values="0.77;0.35;0.77" dur="3.76s" begin="2.09s" repeatCount="indefinite"/><animate attributeName="r" values="2.01;1.65;2.01" dur="3.76s" begin="2.09s" repeatCount="indefinite"/></circle>
-  <circle cx="875.82" cy="66.61" r="5.27" fill="#EF4444" opacity="0.95" filter="url(#glow-red)"><animate attributeName="opacity" values="0.95;0.43;0.95" dur="3.94s" begin="2.2s" repeatCount="indefinite"/><animate attributeName="r" values="5.27;4.32;5.27" dur="3.94s" begin="2.2s" repeatCount="indefinite"/></circle>
-  <text x="450" y="290" text-anchor="middle" font-family="monospace" font-size="10" fill="#F59E0B" opacity="0.55">✦ 259 contributions this year ✦</text>
+  <circle cx="875.82" cy="66.61" r="5.39" fill="#EF4444" opacity="0.95" filter="url(#glow-red)"><animate attributeName="opacity" values="0.95;0.43;0.95" dur="3.94s" begin="2.2s" repeatCount="indefinite"/><animate attributeName="r" values="5.39;4.42;5.39" dur="3.94s" begin="2.2s" repeatCount="indefinite"/></circle>
+  <text x="450" y="290" text-anchor="middle" font-family="monospace" font-size="10" fill="#F59E0B" opacity="0.55">✦ 260 contributions this year ✦</text>
 </svg>
