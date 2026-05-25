@@ -1,110 +1,206 @@
-# 👋 Hi there, I'm Vipransh! <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
+<div align="center">
 
-<img align="right" src="./dev_illustration.png" width="300" alt="Creative Full Stack Developer Illustration">
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vipransh%20Kaushik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20UI%20Craftsman&descAlignY=58&descAlign=50&descSize=18" />
 
-### 💻 Full Stack Developer & Tech Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=FF5E97&background=FF000000&width=435&lines=Building+modern+web+apps;Turning+coffee+into+code;Exploring+cloud-native+tech;Always+learning+new+things)](https://git.io/typing-svg)
-
-I am a passionate Full Stack Developer who loves building interactive web applications, crafting smooth user experiences, and designing robust backends. I thrive at the intersection of clean code and playful user interface design.
-
----
-
-### 📊 My Current Setup & Status
-
-| 🚀 Current Focus | 📚 Learning | ☕ Coffee Intake | 🎮 Gaming Mode |
-| :--- | :--- | :--- | :--- |
-| Crafting pixel-perfect designs | Next.js, Kubernetes & Docker | `3 cups / day` | **Active** (Valheim / RPGs) |
-
----
-
-### 🛠️ Tech Stack & Toolbox
-
-<details open>
-<summary><b>✨ Frontend</b></summary>
-<br/>
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](#)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](#)
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Databases</b></summary>
-<br/>
-
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](#)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & DevOps</b></summary>
-<br/>
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
-</details>
-
----
-
-### 📈 GitHub Stats
+</div>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%">
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%">
-      </td>
-    </tr>
-  </table>
 
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%">
+<!-- Animated typing intro -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%E2%9A%A1+Turning+coffee+into+production-ready+code;%F0%9F%8C%90+Full+Stack+%7C+Cloud+%7C+Open+Source;%F0%9F%8E%AF+Clean+Code+%E2%80%A2+Bold+Design+%E2%80%A2+Real+Impact)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Status badges - animated pill row -->
+![Status](https://img.shields.io/badge/Status-Available%20for%20Work-00D26A?style=flat-square&logo=statuspage&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Cloud-A855F7?style=flat-square&logo=target&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-3%20cups%20%2F%20day-c0392b?style=flat-square&logo=buymeacoffee&logoColor=white)
+![Location](https://img.shields.io/badge/Location-India%20🇮🇳-06B6D4?style=flat-square&logo=googlemaps&logoColor=white)
+
 </div>
 
 ---
 
-### 💬 Daily Dev Quote
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius: 16px;" />
+
+### 🧬 About Me
+
+```typescript
+const vipransh = {
+  pronouns: "he/him",
+  role: "Full Stack Developer",
+  stack: ["React", "Next.js", "Node.js", "Go", "Python"],
+  cloud: ["AWS", "Docker", "Kubernetes", "Vercel"],
+  passion: "Crafting experiences users love",
+  currentlyBuilding: "Something crazy cool 🔥",
+  funFact: "I debug with console.log and I'm not sorry",
+  lifePhilosophy: "Ship it. Then make it perfect."
+};
+```
+
+<br clear="right"/>
+
+---
+
+## 🎨 Tech Universe
 
 <div align="center">
-  <a href="https://github.com/shadowcorer/quotes-github-readme">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" width="100%">
-  </a>
+
+### ⚡ Frontend Mastery
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+### 🖥️ Backend & Databases
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### ☁️ DevOps & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🎭 Design & Tools
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 </div>
 
 ---
 
-### 🎨 Let's Connect!
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5E97?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaushikVipransh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=ffffff&ring_color=A855F7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikVipransh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" />
 
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaushikVipransh&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=06B6D4&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Profile views counter">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaushikVipransh&bg_color=0D1117&color=A855F7&line=06B6D4&point=ffffff&area=true&area_color=A855F7&hide_border=true&custom_title=Vipransh's%20Contribution%20Graph" />
 </div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=KaushikVipransh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
+
+---
+
+## 🌊 Open Source Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/KaushikVipransh/KaushikVipransh/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💡 What I'm Up To
+
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Currently Working On
+- 🚀 Building a **cloud-native SaaS platform**
+- 🤖 Experimenting with **AI-powered developer tools**
+- 🎨 Designing **pixel-perfect component libraries**
+
+### 🌱 Currently Learning
+- 📦 **Rust** — because why not push limits
+- 🧠 **LLM fine-tuning** & RAG architectures
+- ⚙️ **eBPF** for cloud observability
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Fun Facts
+- 🎮 I unwind with open-world RPGs (Elden Ring 🗡️)
+- 🎵 Lo-fi hip-hop is my coding soundtrack
+- 📚 I read 1 tech book a month
+- 🌏 Dream: speak at a major dev conference
+- ☕ Powered by chai, not coffee (fight me)
+
+### 🎯 2025 Goals
+- [ ] 🌟 Star milestone on a personal OSS project
+- [ ] 📝 Launch a tech blog
+- [ ] 🤝 Contribute to 10+ OSS repos
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💬 Dev Philosophy
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Amazing
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikvipransh)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kaushikvipransh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaushikvipransh.dev)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikvipransh@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Read-%230A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/kaushikvipransh)
+
+<br/>
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=KaushikVipransh&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<!-- Animated footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
