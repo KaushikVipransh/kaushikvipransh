@@ -30,7 +30,7 @@
 const vipransh = {
   pronouns: "he/him",
   role: "Full Stack Developer",
-  stack: ["React", "Next.js", "Node.js", "Go", "Python"],
+  stack: ["React", "Next.js", "Node.js"],
   cloud: ["AWS", "Docker", "Kubernetes", "Vercel"],
   passion: "Crafting experiences users love",
   currentlyBuilding: "Something crazy cool 🔥",
@@ -132,75 +132,6 @@ const vipransh = {
 
 </div>
 
----
-
-## 💡 What I'm Up To
-
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
-
-### 🔭 Currently Working On
-- 🚀 Building a **cloud-native SaaS platform**
-- 🤖 Experimenting with **AI-powered developer tools**
-- 🎨 Designing **pixel-perfect component libraries**
-
-### 🌱 Currently Learning
-- 📦 **Rust** — because why not push limits
-- 🧠 **LLM fine-tuning** & RAG architectures
-- ⚙️ **eBPF** for cloud observability
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Fun Facts
-- 🎮 I unwind with open-world RPGs (Elden Ring 🗡️)
-- 🎵 Lo-fi hip-hop is my coding soundtrack
-- 📚 I read 1 tech book a month
-- 🌏 Dream: speak at a major dev conference
-- ☕ Powered by chai, not coffee (fight me)
-
-### 🎯 2025 Goals
-- [ ] 🌟 Star milestone on a personal OSS project
-- [ ] 📝 Launch a tech blog
-- [ ] 🤝 Contribute to 10+ OSS repos
-
-</td>
-</tr>
-</table>
-
----
-
-## 💬 Dev Philosophy
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-
-</div>
-
----
-
-## 🤝 Let's Build Something Amazing
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikvipransh)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kaushikvipransh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaushikvipransh.dev)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikvipransh@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Read-%230A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/kaushikvipransh)
-
-<br/>
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=KaushikVipransh&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 <!-- Animated footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
