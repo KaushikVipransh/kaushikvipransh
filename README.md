@@ -129,21 +129,9 @@ const vipransh = {
 
 ---
 
-<!-- ░░ TROPHIES ░░ -->
-
-## `[ 04 ]` ░░ THREAT RATING · ACHIEVEMENTS
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaushikVipransh&theme=gruvbox&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <!-- ░░ CONSTELLATION ░░ -->
 
-## `[ 05 ]` ░░ COGNITIVE METRICS · CONTRIBUTION CONSTELLATION
+## `[ 04 ]` ░░ COGNITIVE METRICS · CONTRIBUTION CONSTELLATION
 
 <div align="center">
 
