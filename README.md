@@ -35,22 +35,35 @@
 
 ## `[ 01 ]` ░░ COGNITIVE PROFILE
 
-<img align="right" width="260" src="./brain_network.png" alt="Neural Network Brain" style="margin-left:20px; margin-bottom:10px;" />
+<table>
+<tr>
+<td valign="top" width="62%">
 
 ```typescript
 const vipransh = {
   pronouns        : "he/him",
   role            : "Full Stack Developer",
-  stack           : ["MongoDB", "Express.js", "React", "Node.js"],
-  languages       : ["JavaScript", "TypeScript", "C++", "C", "SQL"],
+  stack           : ["MongoDB", "Express.js",
+                     "React", "Node.js"],
+  languages       : ["JavaScript", "TypeScript",
+                     "C++", "C", "SQL"],
   passion         : "Crafting experiences users love",
   currentlyBuilding: "Something crazy cool 🔥",
-  funFact         : "I debug with console.log and I'm not sorry",
+  openSource      : true,
+  available       : "For hire · Remote friendly",
+  funFact         : "I debug with console.log — no apologies",
   lifePhilosophy  : "Ship it. Then make it perfect."
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="38%" align="center">
+
+<img src="./brain_network.png" width="100%" alt="Vipransh Pixel Portrait" />
+
+</td>
+</tr>
+</table>
 
 ---
 
