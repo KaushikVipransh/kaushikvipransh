@@ -35,6 +35,8 @@
 
 ## `[ 01 ]` ░░ COGNITIVE PROFILE
 
+<img align="right" width="260" src="./brain_network.png" alt="Neural Network Brain" style="margin-left:20px; margin-bottom:10px;" />
+
 ```typescript
 const vipransh = {
   pronouns        : "he/him",
@@ -47,6 +49,8 @@ const vipransh = {
   lifePhilosophy  : "Ship it. Then make it perfect."
 };
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -117,7 +121,9 @@ const vipransh = {
 ## `[ 04 ]` ░░ THREAT RATING · ACHIEVEMENTS
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=KaushikVipransh&theme=matrix&no-frame=false&margin-w=6&margin-h=6&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KaushikVipransh&theme=gruvbox&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
