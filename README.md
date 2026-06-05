@@ -1,105 +1,130 @@
-<div align="center">
-
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,19,20&height=220&section=header&text=Vipransh%20Kaushik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20UI%20Craftsman&descAlignY=58&descAlign=50&descSize=18" />
-
-</div>
+<!-- ████████████████████████████████████████████████████████████████ -->
+<!--                    CLASSIFIED PROFILE DOSSIER                    -->
+<!-- ████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- Animated typing intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=CBD5E0&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%E2%9A%A1+Turning+coffee+into+production-ready+code;%F0%9F%8C%90+Full+Stack+%7C+MERN+%7C+Open+Source;%F0%9F%8E%AF+Clean+Code+%E2%80%A2+Bold+Design+%E2%80%A2+Real+Impact)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Status badges - animated pill row -->
-![Status](https://img.shields.io/badge/Status-Available%20for%20Work-4A5568?style=flat-square&logo=statuspage&logoColor=CBD5E0)
-![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20MERN-2D3748?style=flat-square&logo=target&logoColor=CBD5E0)
-![Coffee](https://img.shields.io/badge/Coffee-3%20cups%20%2F%20day-1A202C?style=flat-square&logo=buymeacoffee&logoColor=CBD5E0)
-![Location](https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-2D3748?style=flat-square&logo=googlemaps&logoColor=CBD5E0)
+<!-- Typing SVG — monospace terminal style -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=3000&pause=900&color=C8B800&center=true&vCenter=true&width=700&lines=%5BSYSTEM+ONLINE%5D+Initializing+Profile...;DESIGNATION%3A+VIPRANSH+KAUSHIK;ROLE............FULL+STACK+DEVELOPER;STATUS..........AVAILABLE+FOR+HIRE;%5BCLASSIFIED%5D+LOADING+DOSSIER...)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius: 16px;" />
+<div align="center">
 
-### 🧬 About Me
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                     ░░  OPERATIVE DOSSIER  ░░                           ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  NAME..............  VIPRANSH KAUSHIK                                   ║
+║  DESIGNATION.......  FULL STACK DEVELOPER                               ║
+║  STACK.............  MERN · Next.js · TypeScript                        ║
+║  LOCATION..........  INDIA  🇮🇳                                          ║
+║  STATUS............  AVAILABLE FOR DEPLOYMENT                           ║
+║  THREAT LEVEL......  [CREATIVE · PRECISE · RELENTLESS]                  ║
+║  PRIMARY SKILLS....  [SEE BELOW ↓]                                      ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ░░ ABOUT ░░ -->
+
+## `[ 01 ]` ░░ COGNITIVE PROFILE
 
 ```typescript
 const vipransh = {
-  pronouns: "he/him",
-  role: "Full Stack Developer",
-  stack: ["MongoDB", "Express.js", "React", "Node.js"],
-  languages: ["JavaScript", "TypeScript", "C++", "C", "SQL"],
-  passion: "Crafting experiences users love",
+  pronouns        : "he/him",
+  role            : "Full Stack Developer",
+  stack           : ["MongoDB", "Express.js", "React", "Node.js"],
+  languages       : ["JavaScript", "TypeScript", "C++", "C", "SQL"],
+  passion         : "Crafting experiences users love",
   currentlyBuilding: "Something crazy cool 🔥",
-  funFact: "I debug with console.log and I'm not sorry",
-  lifePhilosophy: "Ship it. Then make it perfect."
+  funFact         : "I debug with console.log and I'm not sorry",
+  lifePhilosophy  : "Ship it. Then make it perfect."
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🎨 Tech Stack
+<!-- ░░ TECH STACK ░░ -->
+
+## `[ 02 ]` ░░ PRIMARY SKILLS · [RESTRICTED]
 
 <div align="center">
 
-**Frontend** &nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+**`// FRONTEND`**
 
-**Backend & MERN** &nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-C8B800?style=flat-square&logo=html5&logoColor=0D0D00)
+![CSS3](https://img.shields.io/badge/CSS3-C8B800?style=flat-square&logo=css3&logoColor=0D0D00)
+![JavaScript](https://img.shields.io/badge/JavaScript-C8B800?style=flat-square&logo=javascript&logoColor=0D0D00)
+![TypeScript](https://img.shields.io/badge/TypeScript-C8B800?style=flat-square&logo=typescript&logoColor=0D0D00)
+![React](https://img.shields.io/badge/React-1a1a00?style=flat-square&logo=react&logoColor=C8B800)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a00?style=flat-square&logo=next.js&logoColor=C8B800)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1a00?style=flat-square&logo=tailwind-css&logoColor=C8B800)
+![Sass](https://img.shields.io/badge/Sass-1a1a00?style=flat-square&logo=sass&logoColor=C8B800)
 
-**Languages** &nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4A5568?style=flat-square&logo=amazondynamodb&logoColor=CBD5E0)
+**`// BACKEND & MERN`**
 
-**Tools** &nbsp;
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-C8B800?style=flat-square&logo=mongodb&logoColor=0D0D00)
+![Express](https://img.shields.io/badge/Express-1a1a00?style=flat-square&logo=express&logoColor=C8B800)
+![Node.js](https://img.shields.io/badge/Node.js-C8B800?style=flat-square&logo=node.js&logoColor=0D0D00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a00?style=flat-square&logo=postgresql&logoColor=C8B800)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a00?style=flat-square&logo=mysql&logoColor=C8B800)
+![Redis](https://img.shields.io/badge/Redis-C8B800?style=flat-square&logo=redis&logoColor=0D0D00)
+![Prisma](https://img.shields.io/badge/Prisma-1a1a00?style=flat-square&logo=prisma&logoColor=C8B800)
+
+**`// LANGUAGES`**
+
+![C](https://img.shields.io/badge/C-C8B800?style=flat-square&logo=c&logoColor=0D0D00)
+![C++](https://img.shields.io/badge/C++-C8B800?style=flat-square&logo=c%2B%2B&logoColor=0D0D00)
+![Python](https://img.shields.io/badge/Python-1a1a00?style=flat-square&logo=python&logoColor=C8B800)
+![SQL](https://img.shields.io/badge/SQL-1a1a00?style=flat-square&logo=amazondynamodb&logoColor=C8B800)
+
+**`// TOOLS`**
+
+![Git](https://img.shields.io/badge/Git-C8B800?style=flat-square&logo=git&logoColor=0D0D00)
+![Figma](https://img.shields.io/badge/Figma-1a1a00?style=flat-square&logo=figma&logoColor=C8B800)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1a00?style=flat-square&logo=visual-studio-code&logoColor=C8B800)
+![Postman](https://img.shields.io/badge/Postman-C8B800?style=flat-square&logo=postman&logoColor=0D0D00)
+![Linux](https://img.shields.io/badge/Linux-C8B800?style=flat-square&logo=linux&logoColor=0D0D00)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ░░ GITHUB ANALYTICS ░░ -->
+
+## `[ 03 ]` ░░ MOVEMENT TRACE · GITHUB ANALYTICS
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaushikVipransh&bg_color=0D1117&color=CBD5E0&line=718096&point=E2E8F0&area=true&area_color=2D3748&hide_border=true&custom_title=Vipransh's%20Contribution%20Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaushikVipransh&bg_color=0D0D00&color=C8B800&line=8B7A00&point=FFE500&area=true&area_color=1a1a00&hide_border=false&border_color=C8B800&custom_title=CONTRIBUTION%20TRACE%20%5BCLASSIFIED%5D" />
+</div>
+
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=KaushikVipransh&show_icons=true&theme=chartreuse-dark&hide_border=false&border_color=C8B800&bg_color=0D0D00&title_color=C8B800&icon_color=FFE500&text_color=C8B800&ring_color=C8B800" />
+  &nbsp;
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikVipransh&layout=compact&theme=chartreuse-dark&hide_border=false&border_color=C8B800&bg_color=0D0D00&title_color=C8B800&text_color=C8B800" />
 </div>
 
 ---
 
-## 🏆 Achievements & Trophies
+<!-- ░░ TROPHIES ░░ -->
+
+## `[ 04 ]` ░░ THREAT RATING · ACHIEVEMENTS
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=KaushikVipransh&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=KaushikVipransh&theme=matrix&no-frame=false&margin-w=6&margin-h=6&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 </div>
 
 ---
 
-## ✨ Contribution Constellation
+<!-- ░░ CONSTELLATION ░░ -->
+
+## `[ 05 ]` ░░ COGNITIVE METRICS · CONTRIBUTION CONSTELLATION
 
 <div align="center">
 
@@ -107,6 +132,26 @@ const vipransh = {
 
 </div>
 
+---
 
-<!-- Animated footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,19,2&height=120&section=footer&animation=twinkling" />
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  ▓▓▓  CONNECT · [UNCLASSIFIED CHANNELS]  ▓▓▓            ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   ► GITHUB   →  github.com/KaushikVipransh               ║
+║   ► STATUS   →  OPEN TO WORK · DEPLOYMENT READY          ║
+║   ► MISSION  →  SHIP IT. THEN MAKE IT PERFECT.           ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=KaushikVipransh&color=C8B800&style=flat-square&label=PROFILE+SCANS)
+
+</div>
+
+<!-- ████████████████████████████████████████████████████████████████ -->
+<!--                      END OF DOSSIER                              -->
+<!-- ████████████████████████████████████████████████████████████████ -->
