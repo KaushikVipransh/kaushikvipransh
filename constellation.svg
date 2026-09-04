@@ -481,9 +481,9 @@
   <line x1="857.16" y1="151.85" x2="844.72" y2="150.28" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
   <line x1="857.16" y1="151.85" x2="876.51" y2="150.54" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
   <line x1="857.16" y1="151.85" x2="827.97" y2="151.7" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
+  <line x1="861.63" y1="192.3" x2="875.95" y2="190.36" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
   <line x1="861.63" y1="192.3" x2="841.96" y2="190.5" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
   <line x1="861.63" y1="192.3" x2="828.57" y2="192.5" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
-  <line x1="861.63" y1="192.3" x2="857.16" y2="151.85" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
   <line x1="862.32" y1="236.0" x2="844.36" y2="234.8" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
   <line x1="862.32" y1="236.0" x2="827.81" y2="235.73" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
   <line x1="862.32" y1="236.0" x2="860.65" y2="275.08" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
@@ -501,7 +501,10 @@
   <line x1="878.5" y1="106.73" x2="875.82" y2="66.61" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
   <line x1="876.51" y1="150.54" x2="857.16" y2="151.85" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
   <line x1="876.51" y1="150.54" x2="844.72" y2="150.28" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
-  <line x1="876.51" y1="150.54" x2="878.5" y2="106.73" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
+  <line x1="876.51" y1="150.54" x2="875.95" y2="190.36" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
+  <line x1="875.95" y1="190.36" x2="861.63" y2="192.3" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
+  <line x1="875.95" y1="190.36" x2="841.96" y2="190.5" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
+  <line x1="875.95" y1="190.36" x2="876.51" y2="150.54" stroke="#C8B800" stroke-opacity="0.18" stroke-width="0.6"/>
   <circle cx="24.84" cy="22.1" r="1.96" fill="#5A4E00" opacity="0.76" filter="url(#glow-steel)"><animate attributeName="opacity" values="0.76;0.34;0.76" dur="2.5s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="r" values="1.96;1.61;1.96" dur="2.5s" begin="0.0s" repeatCount="indefinite"/></circle>
   <circle cx="22.65" cy="64.89" r="1.96" fill="#5A4E00" opacity="0.76" filter="url(#glow-steel)"><animate attributeName="opacity" values="0.76;0.34;0.76" dur="2.68s" begin="0.11s" repeatCount="indefinite"/><animate attributeName="r" values="1.96;1.61;1.96" dur="2.68s" begin="0.11s" repeatCount="indefinite"/></circle>
   <circle cx="25.42" cy="108.71" r="1.0" fill="#1A1900" opacity="0.2"/>
@@ -870,6 +873,7 @@
   <circle cx="875.82" cy="66.61" r="1.96" fill="#5A4E00" opacity="0.76" filter="url(#glow-steel)"><animate attributeName="opacity" values="0.76;0.34;0.76" dur="3.94s" begin="2.2s" repeatCount="indefinite"/><animate attributeName="r" values="1.96;1.61;1.96" dur="3.94s" begin="2.2s" repeatCount="indefinite"/></circle>
   <circle cx="878.5" cy="106.73" r="3.71" fill="#C8B800" opacity="0.78" filter="url(#glow-silver)"><animate attributeName="opacity" values="0.78;0.35;0.78" dur="4.12s" begin="2.31s" repeatCount="indefinite"/><animate attributeName="r" values="3.71;3.04;3.71" dur="4.12s" begin="2.31s" repeatCount="indefinite"/></circle>
   <circle cx="876.51" cy="150.54" r="3.15" fill="#C8B800" opacity="0.78" filter="url(#glow-silver)"><animate attributeName="opacity" values="0.78;0.35;0.78" dur="4.3s" begin="2.42s" repeatCount="indefinite"/><animate attributeName="r" values="3.15;2.58;3.15" dur="4.3s" begin="2.42s" repeatCount="indefinite"/></circle>
-  <circle cx="875.95" cy="190.36" r="1.0" fill="#1A1900" opacity="0.2"/>
-  <text x="450" y="290" text-anchor="middle" font-family="monospace" font-size="10" fill="#C8B800" opacity="0.55">✦ 401 CONTRIBUTIONS THIS YEAR ✦</text>
+  <circle cx="875.95" cy="190.36" r="1.96" fill="#5A4E00" opacity="0.76" filter="url(#glow-steel)"><animate attributeName="opacity" values="0.76;0.34;0.76" dur="4.48s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="r" values="1.96;1.61;1.96" dur="4.48s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <circle cx="875.09" cy="233.33" r="1.0" fill="#1A1900" opacity="0.2"/>
+  <text x="450" y="290" text-anchor="middle" font-family="monospace" font-size="10" fill="#C8B800" opacity="0.55">✦ 402 CONTRIBUTIONS THIS YEAR ✦</text>
 </svg>
